@@ -6,6 +6,8 @@
 
 Notebook by Raimon Luna (https://github.com/raimonluna). This notebook approximates the solution to the (regular and ambidextrous) Moving Sofa Problem using a simple fully-connected neural network.
 
+To test it, simply press Ctrl+Enter sequentially in each cell, or click on the small icons on the left with the "play" symbol. At the end of the process a video is generated with the calculated sofa (normal or ambidextrous) moving along the corridor.
+
 For more information, visit:
 
 - https://en.wikipedia.org/wiki/Moving_sofa_problem
